@@ -183,39 +183,7 @@
          <span class="text-muted">Copyright &copy;2020 | SIP Calculator</span>
       </div>
    </footer>
-   <script>
-      // $(document).ready(function() {
-      //    let amount = "";
-      //    let period = "";
-      //    let returns = "";
-      //    $('input[name=investment]').change(function() {
-      //       amount = $(this).val();
-      //    });
-      //    $('input[name=period]').change(function() {
-      //       period = $(this).val();
-      //    });
-      //    $('input[name=return]').change(function() {
-      //       returns = $(this).val();
-      //    });
-
-      //    let monthlyRate = returns / 12 / 100;
-      //    let months = period * 12;
-
-      //    let futureValue = amount * (pow(1 + monthlyRate, months) - 1) / monthlyRate;
-      //    let invested = months * amount;
-      //    let wealth_gain = futureValue - invested;
-
-      //    let a = round($futureValue, 2);
-      //    let b = round($invested, 2);
-      //    let c = round($wealth_gain, 2);
-
-      //    $('.invest').html('444');
-      //    $('.return').html(b);
-      //    $('.profit').html(c);
-
-
-      // })
-   </script>
+   
 </body>
 
 </html>
