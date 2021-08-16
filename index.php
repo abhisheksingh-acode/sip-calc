@@ -131,7 +131,7 @@
             </div> -->
          </div>
          <div class="mb-3">
-            <label for="investment" class="form-label">Monthly Investment(Rs)</label>
+            <label for="investment" class="form-label">Monthly Investment (Rs)</label>
             <input required type="number" name="investment" class="form-control" id="investment">
          </div>
          <div class="mb-3">
