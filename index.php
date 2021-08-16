@@ -27,13 +27,14 @@
    <style type="text/css">
       body {
          font-family: "Baloo Thambi 2", cursive;
+         background-color:#fcfcfc;
       }
 
       .calc-container #form {
          width: 400px;
          max-width: 450px;
          min-height: 350px;
-         box-shadow: -1px 5px 15px -4px rgba(0, 0, 0, .3);
+/*          box-shadow: -1px 5px 15px -4px rgba(0, 0, 0, .3); */
          border-radius: 16px;
          padding: 40px;
       }
