@@ -123,10 +123,10 @@
                <input type="radio" name="type" value="sip" id="sip" checked="checked">
                <label for="sip" class="label">SIP</label>
             </div>
-            <div class="col-4">
+<!--             <div class="col-4">
                <input type="radio" name="type" value="lumpsum" id="lumpsum">
                <label for="lumpsum" class="label">LUMPSUM</label>
-            </div>
+            </div> -->
          </div>
          <div class="mb-3">
             <label for="investment" class="form-label">Monthly Investment(Rs)</label>
@@ -174,15 +174,6 @@
 
    </div>
 
-
-
-
-
-   <footer class="footer mt-auto py-3 bg-light">
-      <div class="container text-center">
-         <span class="text-muted">Copyright &copy;2020 | SIP Calculator</span>
-      </div>
-   </footer>
 
 </body>
 
