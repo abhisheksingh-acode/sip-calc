@@ -36,6 +36,7 @@
          min-height: 350px;
 /*          box-shadow: -1px 5px 15px -4px rgba(0, 0, 0, .3); */
          border-radius: 16px;
+         background:#fff;
          padding: 40px;
       }
 
@@ -142,7 +143,7 @@
             <input required type="number" name="return" class="form-control" id="return">
          </div>
          <div class="mb-3">
-            <button class="btn btn-danger" type="submit" name="submit">Calculate</button>
+            <button class="btn " style="background-color:#e05632;" type="submit" name="submit">Calculate</button>
          </div>
 
          <div class="result-container">
