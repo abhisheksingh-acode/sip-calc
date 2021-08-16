@@ -27,7 +27,7 @@
    <style type="text/css">
       body {
          font-family: "Baloo Thambi 2", cursive;
-         background-color:#fcfcfc;
+         background-color:#fbfbfb;
       }
 
       .calc-container #form {
