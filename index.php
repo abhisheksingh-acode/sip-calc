@@ -121,10 +121,10 @@
       <form action="" method="POST" id="form">
          <h3 class="text-center py-2">SIP Calculator</h3>
          <div class="options mb-3 row mx-auto p-0">
-            <div class="col-4">
+<!--             <div class="col-4">
                <input type="radio" name="type" value="sip" id="sip" checked="checked">
                <label for="sip" class="label">SIP</label>
-            </div>
+            </div> -->
 <!--             <div class="col-4">
                <input type="radio" name="type" value="lumpsum" id="lumpsum">
                <label for="lumpsum" class="label">LUMPSUM</label>
@@ -143,7 +143,7 @@
             <input required type="number" name="return" class="form-control" id="return">
          </div>
          <div class="mb-3">
-            <button class="btn " style="background-color:#e05632;" type="submit" name="submit">Calculate</button>
+            <button class="btn text-white" style="background-color:#e05632;" type="submit" name="submit">Calculate</button>
          </div>
 
          <div class="result-container">
